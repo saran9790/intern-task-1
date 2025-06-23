@@ -1,0 +1,1 @@
+By using the Nmap i performed the tcp syn scan in local ip address for finding the open port. After finding the open port i use wireshark for capture the packet in the network and search for any security risk.
